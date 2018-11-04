@@ -1,6 +1,10 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "types": [
+     "jquery",
+     "materialize-css"
+    ],
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "sourceMap": true,
